@@ -1,0 +1,9 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\bin\Debug\Eyup_28.03.2019.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\bin\Debug\Eyup_28.03.2019.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\bin\Debug\Eyup_28.03.2019.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28.03.2019.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28._03._2019.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28._03._2019.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28.03.2019.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28.03.2019.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_28.03.2019\Eyup_28.03.2019\obj\Debug\Eyup_28.03.2019.pdb
